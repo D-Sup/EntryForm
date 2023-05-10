@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EntryForm/static/css/main.a118dd6b.css",
+    "main.js": "/EntryForm/static/js/main.954edcb2.js",
+    "static/media/clockframe.png": "/EntryForm/static/media/clockframe.8c9a14ce7c73613a1a22.png",
+    "index.html": "/EntryForm/index.html",
+    "main.a118dd6b.css.map": "/EntryForm/static/css/main.a118dd6b.css.map",
+    "main.954edcb2.js.map": "/EntryForm/static/js/main.954edcb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a118dd6b.css",
+    "static/js/main.954edcb2.js"
+  ]
+}
